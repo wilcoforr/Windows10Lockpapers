@@ -1,8 +1,6 @@
 # Windows 10 Lockpapers
 
-Probably being a bit of a bad boy about these various "lockpapers" copyrights :)
-
-![Test Image](e0ce.jpg)
+"Save" the Windows 10 various wallpapers that are downloaded and shown on the lock screen of your computer, to the "My Pictures" folder. Pretty sure Windows 10 Pro is required for this to work, not sure. I think Windows 10 Home doesn't feature changing lockscreen wallpapers.
 
 
 ```csharp
