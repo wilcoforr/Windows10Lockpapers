@@ -7,7 +7,7 @@
 namespace Windows10LockpaperDownloader
 {
     using System;
-    using System.Drawing;
+    using System.Drawing; //Don't forget to add System.Drawing as a reference via Visual Studio before running this program.
     using System.IO;
     using System.Linq;
 
@@ -115,6 +115,4 @@ namespace Windows10LockpaperDownloader
 
     }
 }
-
-
 ```
